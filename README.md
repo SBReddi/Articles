@@ -113,8 +113,8 @@
                 </div>
                 <div>
                     <!-- *** 2. AUTHOR BIO TITLE: Sridhar B. *** 
-                    <p class="text-lg font-semibold text-gray-800">[Your Name and Title]</p>
-                    <p class="text-gray-600 mt-1">-->
+                    <p class="text-lg font-semibold text-gray-800">[Your Name and Title]</p> -->
+                    <p class="text-gray-600 mt-1">
                         <!-- *** 3. AUTHOR PRONOUN: Replace [He/She] with the correct singular pronoun (He, She, or They). *** -->
                         Sridhar B is an IT leader focused on delivering high-impact organizational projects and optimizing strategic partnerships across co-located and distributed teams. He specializes in buiding new technology delivery teams and transforming exisiting teams into high-performing, self-sufficient teams, a critical component for modern organizational scaling.
                     </p>
