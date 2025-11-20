@@ -27,9 +27,9 @@
             <h1 class="text-2xl font-bold text-gray-800 tracking-tight">
                 <a href="#" class="hover:text-indigo-600 transition duration-150">Strategic Leadership Log</a>
             </h1>
-            /*<nav>
+            <!--<nav>
                 <a href="#author" class="text-sm font-medium text-gray-600 hover:text-indigo-600 transition duration-150">About the Author</a>
-            </nav>*/
+            </nav>-->
         </div>
     </header>
 
@@ -105,7 +105,7 @@
 
         <!-- Author Bio Section -->
         <section id="author" class="mt-12 bg-indigo-50 p-8 rounded-xl border border-indigo-200 shadow-md">
-            /*<h3 class="text-2xl font-bold text-indigo-800 mb-4">About the Author</h3>*/
+            <!--<h3 class="text-2xl font-bold text-indigo-800 mb-4">About the Author</h3>-->
             <div class="flex items-start space-x-4">
                 <div class="flex-shrink-0">
                     <!-- Placeholder for a professional photo or avatar -->
